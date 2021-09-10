@@ -13,7 +13,4 @@
    <img align="center" alt="Fonseca-NVIDIA" height="30" width="180" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
    <img align="center" alt="Fonseca-Intel" height="30" width="180" src="https://img.shields.io/badge/Intel-Xeon_X3450-0071C5?style=for-the-badge&logo=intel&logoColor=white">
    <img align="center" alt="Fonseca-WS" height="30" width="120" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-   <img align="center" alt="Fonseca-Steam" height="30" width="100" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-   <img align="center" alt="Fonseca-PS" height="30" width="140" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
-   <img align="center" alt="Fonseca-DC" height="30" width="120" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </div>
