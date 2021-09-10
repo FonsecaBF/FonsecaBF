@@ -3,9 +3,8 @@
  <div>
    <a href="https://github.com/FonsecaBF">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FonsecaBF&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FonsecaBF&layout=compact&langs_count=7&theme=gruvbox"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FonsecaBF&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
-
 <div style="display: inline_block"><br>
    <img align="center" alt="Fonseca-Js" height="30" width="130" src="https://img.shields.io/badge/JavaScript-323330?style=for-badge&logo=javascript&logoColor=F7DF1E">
    <img align="center" alt="Fonseca-Lua" height="30" width="70" src="https://img.shields.io/badge/Lua-2C2D72?style=for-badge&logo=lua&logoColor=white">
