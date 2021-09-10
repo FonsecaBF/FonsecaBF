@@ -18,6 +18,6 @@
 ##
 
 <div>
-   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/channel/UC38zmYWv9GcF5rRqc9Ht4AQ/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/durBU7px48" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
