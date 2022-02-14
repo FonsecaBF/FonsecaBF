@@ -13,8 +13,8 @@
    <img align="center" alt="Fonseca-NVIDIA" height="30" width="180" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-badge&logo=nvidia&logoColor=white">
    <img align="center" alt="Fonseca-Intel" height="30" width="180" src="https://img.shields.io/badge/Intel-Xeon_X3450-0071C5?style=for-badge&logo=intel&logoColor=white">
    <img align="center" alt="Fonseca-WS" height="30" width="120" src="https://img.shields.io/badge/Windows-0078D6?style=for-badge&logo=windows&logoColor=white">
-   <img align="center" alt="Fonseca-Ilustrator" height="30" width="180" src="https://aleen42.github.io/badges/src/after_effects.svg">
-   <img align="center" alt="Fonseca-Photoshop" height="30" width="180" src="https://aleen42.github.io/badges/src/photoshop.svg">
+   <img align="center" alt="Fonseca-Ilustrator" height="30" width="160" src="https://aleen42.github.io/badges/src/after_effects.svg">
+   <img align="center" alt="Fonseca-Photoshop" height="30" width="160" src="https://aleen42.github.io/badges/src/photoshop.svg">
 </div>
 
 ##
