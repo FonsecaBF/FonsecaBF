@@ -9,9 +9,11 @@
    <img align="center" alt="Fonseca-Js" height="30" width="130" src="https://img.shields.io/badge/JavaScript-323330?style=for-badge&logo=javascript&logoColor=F7DF1E">
    <img align="center" alt="Fonseca-Lua" height="30" width="70" src="https://img.shields.io/badge/Lua-2C2D72?style=for-badge&logo=lua&logoColor=white">
    <img align="center" alt="Fonseca-SQLite" height="30" width="90" src="https://img.shields.io/badge/SQLite-07405E?style=for-badge&logo=sqlite&logoColor=white">
+   <img align="center" alt="Fonseca-MySQL" height="30" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=black">
    <img align="center" alt="Fonseca-NVIDIA" height="30" width="180" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-badge&logo=nvidia&logoColor=white">
    <img align="center" alt="Fonseca-Intel" height="30" width="180" src="https://img.shields.io/badge/Intel-Xeon_X3450-0071C5?style=for-badge&logo=intel&logoColor=white">
    <img align="center" alt="Fonseca-WS" height="30" width="120" src="https://img.shields.io/badge/Windows-0078D6?style=for-badge&logo=windows&logoColor=white">
+  
 </div>
 
 ##
